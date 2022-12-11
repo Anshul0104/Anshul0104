@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anshul0104
+- 👋 Hi, I’m Anshul Mehta
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning AWS
 <!-- - 💞️ I’m looking to collaborate on ... -->
